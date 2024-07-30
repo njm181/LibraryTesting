@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "MyLibrary"
-  spec.version      = "0.0.1"
+  spec.version      = '0.0.1'
   spec.summary = 'A brief description of MyLibrary.'
   spec.swift_versions = '5.0'
 
