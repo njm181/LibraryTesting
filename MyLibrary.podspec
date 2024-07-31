@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "MyLibrary"
-  spec.version      = '0.0.3'
+  spec.version      = '0.0.4'
   spec.summary = 'A brief description of MyLibrary.'
   spec.swift_versions = '5.0'
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source = { :git => 'https://github.com/njm181/LibraryTesting.git', :tag => '0.0.3' }
+  spec.source = { :git => 'https://github.com/njm181/LibraryTesting.git', :tag => '0.0.4' }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
